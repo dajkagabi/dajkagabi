@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriella Dajka</h1>
+<h1 align="center">Hi 👋, I'm Gabriella</h1>
 <h3 align="center">I'm a junior developer, passionate, curious and always in the pursuit of knowledge. I focus on frontend and mobile development, but I'm not afraid to take on new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dajkagabi&label=Profile%20views&color=0e75b6&style=flat" alt="dajkagabi" /> </p>
