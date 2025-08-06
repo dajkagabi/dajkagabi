@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dajkagabi&label=Profile%20views&color=0e75b6&style=flat" alt="dajkagabi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dajkagabi" alt="dajkagabi" /></a> </p>
+
 
 </p>
 
@@ -13,7 +13,7 @@
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer-motion" width="40" height="40"/></a>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dajkagabi&show_icons=true&locale=en&layout=compact" alt="dajkagabi" /></p>
+
 
 
 
